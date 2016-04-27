@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RobotFileParser","robots.txt file parser"]]});
